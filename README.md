@@ -2,6 +2,8 @@
 
 Description: Implemented Unsupervised ML models to study Quasar Clustering at 3 ≤ z ≤ 6 (z = redshift)
 
+Authors: Anthony Yang, Mia Chaplin, Prisha Desai
+
 ## Objective
 
 Implement Clustering models to determine if there's significant evidence of Quasar clustering at higher redshfits (z)
