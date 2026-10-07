@@ -33,6 +33,12 @@ We collected our data from the Sloan Digital Sky Survey (SDSS). Afterwards, we p
 1. Among the 3 models implemented, there were significant inconsistencies among each model's clusters.
 2. Due to these inconsistencies, there isn't significant evidence of Quasar Clustering at 3 ≤ z ≤ 6.
 
+## Research Paper
+Yang, A., Chaplin, M., & Desai, P. _Quasar Clustering Using Machine Learning._
+
+The full research paper is available as a public preprint through Zenodo:
+https://doi.org/10.5281/zenodo.23201783
+
 ## Repository Information
 1. Quasar_Clustering_Full_Paper.pdf: Authored a full research paper of our work.  
 2. Quasar_Clustering_Research.ipynb: This file contains the main code of our analysis including the model implementation and evaluation.  
